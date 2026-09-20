@@ -1,7 +1,7 @@
 # React Native Gallery App - Candidate Submission
 
 ## Setup & Running Instructions
-1. Clone repository: `git clone <repo-url>`
+1. Clone repository: `git clone https://github.com/TheCreator8055/React-Native-Gallery-App.git`
 2. Install dependencies: `npm install`
 3. Run Metro Bundler: `npx expo start` or `npm start`
 4. Launch Android: Press `a` (or run on physical device via Expo Go)
